@@ -10,7 +10,6 @@ Esse repositório contém os exercícios e anotações do curso
 Autopep8 é uma ferramenta para formatar o código Python de acordo com as
 regras de formatação do PEP8.
 
-
 ### MyPy
 
 Mypy é um verificador de tipo estático opcional para o Python, que visa
@@ -76,4 +75,4 @@ referências.
 - [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 - (https://realpython.com/python-best-practices-2020/)
 - [A Guide to Python Good Practices](https://towardsdatascience.com/a-guide-to-python-good-practices-90598529da35)
-- [7 Ways to Make Your Python Project Structure More Elegant(https://www.the-analytics.club/python-project-structure-best-practices)]
+- [7 Ways to Make Your Python Project Structure More Elegant](https://www.the-analytics.club/python-project-structure-best-practices)
