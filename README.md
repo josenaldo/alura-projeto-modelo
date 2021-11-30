@@ -1,4 +1,4 @@
-# $TITULO_DO_CURSO$
+# TITULO_DO_CURSO
 
 Esse repositório contém os exercícios e anotações do curso
 [TITULO](LINK), da Alura.
