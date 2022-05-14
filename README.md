@@ -12,10 +12,19 @@ Esse repositório contém os exercícios e anotações do curso
 4. Publique o repositório no GitHub.
 5. Ative o ambiente virtual do curso, com o comando `conda activate ..\.venv` ou comando similar.
 6. Execute o comando `pre-commit install` para instalar o pre-commit.
+7. Execute o comando `pip install -r requirements.txt` para instalar as dependências do projeto.
 
 Pronto. Aproveite seu curso.
 
 ## Ferramentas usadas nesse repositótio
+
+### EditorConfig for VS Code
+
+A extensão [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) permite que você sobreescreva algumas configurações do editor com as configurações encontradas no arquivo `.editorconfig`.
+
+### Prettier
+
+O Prettier é uma ferramenta que permite que você formate seu código de forma apropriada, de acordo com as configurações do arquivo `.prettierrc`.
 
 ### Autopep8
 
